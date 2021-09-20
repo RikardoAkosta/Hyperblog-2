@@ -41,4 +41,14 @@ body {
 #post {
     background: white;
     padding: 1em;
+<<<<<<< HEAD
+=======
+
+}
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> e3679d315c874cb7da8d338b6f21f9f6760af7f1
 }
